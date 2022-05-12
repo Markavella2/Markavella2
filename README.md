@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark, a fun and energetic full stack web developer</h1>
-<h3 align="center">I started working in the tech industry 9 years ago. That's what gave me the itch to learn how to code, and I haven't looked back since. If I'm not writing some totally awesome code, then I'm writing some totally awesome novels and children's stories. I spend whatever free time I have (free time??) hanging out with my family outside.</h3>
+<h3 align="center">I started working in the tech industry 9 years ago. That's what gave me the itch to learn how to code, and I haven't looked back since. If I'm not writing some totally awesome code, then I'm writing some totally awesome novels and children's stories. I spend whatever free time I have (free time??) hanging out with my family outside being as active as I can be.</h3>
 
 <p align="left"> <a href="https://twitter.com/avellamark" target="blank"><img src="https://img.shields.io/twitter/follow/avellamark?logo=twitter&style=for-the-badge" alt="avellamark" /></a> </p>
 
