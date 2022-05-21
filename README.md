@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **"You've Got Answers" - an interactive superlative builder**
 
-- 🌱 I’m currently learning **OOP, Node.js, React**
+- 🌱 I’m currently learning **New things everyday!**
 
 - 🤝 I’m looking for help with **my Dragon Ball Z collection (mainly, where to store all my fig's).**
 
