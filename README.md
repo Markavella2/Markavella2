@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact: **I met my wife on a volleyball court and we play competitive volleyball together.**
 
+![profile](https://user-images.githubusercontent.com/102497017/174461584-9117107c-8ecc-48ea-bde6-5a71bcfb1b66.gif)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avellamark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avellamark" height="30" width="40" /></a>
