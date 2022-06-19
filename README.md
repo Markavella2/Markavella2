@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **I met my wife on a volleyball court and we play competitive volleyball together.**
 
-![profile3](https://user-images.githubusercontent.com/102497017/174461807-5d0bcc55-df4a-4fc8-b26f-dec195c33ff0.gif) ![jims2](https://user-images.githubusercontent.com/102497017/174463508-164fb66b-d73d-4862-9f86-5d67dc2e921e.gif)
+![prof](https://user-images.githubusercontent.com/102497017/174463579-e3fed65e-12c5-413a-9a9c-e0f619c03a74.gif)   ![jims2](https://user-images.githubusercontent.com/102497017/174463508-164fb66b-d73d-4862-9f86-5d67dc2e921e.gif)
 
 
 <h3 align="left">Connect with me:</h3>
