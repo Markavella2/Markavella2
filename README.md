@@ -23,7 +23,9 @@
 
 - 💻 **Projects: Below are a few gifs of my portfolio and other projects I've worked on:**
 
-![prof](https://user-images.githubusercontent.com/102497017/174463579-e3fed65e-12c5-413a-9a9c-e0f619c03a74.gif) <img height="250" hspace="30"/> ![jims2](https://user-images.githubusercontent.com/102497017/174463508-164fb66b-d73d-4862-9f86-5d67dc2e921e.gif)
+![prof](https://user-images.githubusercontent.com/102497017/174463579-e3fed65e-12c5-413a-9a9c-e0f619c03a74.gif) 
+<img height="250" hspace="30"/> 
+![jims2](https://user-images.githubusercontent.com/102497017/174463508-164fb66b-d73d-4862-9f86-5d67dc2e921e.gif)
 
 
 <h3 align="left">Connect with me:</h3>
