@@ -21,6 +21,8 @@
 
 ![profile3](https://user-images.githubusercontent.com/102497017/174461807-5d0bcc55-df4a-4fc8-b26f-dec195c33ff0.gif)
 
+![jims](https://user-images.githubusercontent.com/102497017/174463469-c6eff136-4627-47e6-a843-97790f2aa859.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
