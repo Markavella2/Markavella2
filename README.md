@@ -58,7 +58,11 @@
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - A happy client with a great website. Check out Jim's Tour Guides!</p>
 </div>
-  
+</table>
+ 
+<div align="center">
+<table>
+<tr>
  <td width="50%">
 <h3 align="center" color="white">Jim's Tour Guide Service</h3>
 <div align="center" >  
@@ -74,7 +78,8 @@
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - One of my favorite websites. Check out Align5 Photography!</p>
 </div> 
-</table>
+  </table>
+
 
 
 <h3 align="left">Connect with me:</h3>
