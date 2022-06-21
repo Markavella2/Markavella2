@@ -25,9 +25,6 @@
 - ⚡ Fun fact: **I met my wife on a volleyball court and we play competitive volleyball together.**
 
 
-
-- 💻 **Projects: Below are a few gifs of my portfolio and other projects I've worked on:**
-
 <h2 align="center">Projects </h2>
 <div align="center">
 <table>
