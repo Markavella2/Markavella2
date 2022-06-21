@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="makeyourmark2.png" alt="Mark Avella II" style="width: 100%" />
+  <img src="makemark.png" alt="Mark Avella II" style="width: 100%" />
 </div>
 <br>
 
