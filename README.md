@@ -28,9 +28,42 @@
 
 - 💻 **Projects: Below are a few gifs of my portfolio and other projects I've worked on:**
 
-![prof](https://user-images.githubusercontent.com/102497017/174463579-e3fed65e-12c5-413a-9a9c-e0f619c03a74.gif) 
-<img height="250" hspace="30"/> 
-![jims2](https://user-images.githubusercontent.com/102497017/174463508-164fb66b-d73d-4862-9f86-5d67dc2e921e.gif)
+<h2 align="center">Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Personal Portfolio</h3>
+<div align="center" >  
+<a href='https://markavella.com'>
+<img src="https://github.com/Markavella2/Markavella2/blob/main/prof.gif" alt="Personal Portfolio" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://markavella.com" target="_blank">
+<img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - My portfolio website to showcase my projects and contact information. Open to freelance clients!</p>
+</div>  
+  
+<td width="50%">
+<h3 align="center" color="white">Jim's Tour Guide Service</h3>
+<div align="center" >  
+<a href='https://jimstourguide.netlify.app/'>
+<img src="https://github.com/Markavella2/Markavella2/blob/main/jims2.gif" alt="Jim's Tour Guide Website" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://jimstourguide.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - A happy client with a great website. Check out Jim's Tour Guides!</p>
+</div>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
