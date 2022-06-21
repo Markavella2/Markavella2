@@ -35,7 +35,7 @@
 <td width="50%">
 <h3 align="center" color="white">Personal Portfolio</h3>
 <div align="center" >  
-<a href='https://markavella.com'>
+<a href='https://markavella.com' target="_blank">
 <img src="https://github.com/Markavella2/Markavella2/blob/main/prof.gif" alt="Personal Portfolio" width="100%" />
 </a>
 <br>
@@ -51,7 +51,7 @@
 <td width="50%">
 <h3 align="center" color="white">Jim's Tour Guide Service</h3>
 <div align="center" >  
-<a href='https://jimstourguide.netlify.app/'>
+<a href='https://jimstourguide.netlify.app/' target="blank">
 <img src="https://github.com/Markavella2/Markavella2/blob/main/jims2.gif" alt="Jim's Tour Guide Website" width="100%" />
 </a>
 <br>
