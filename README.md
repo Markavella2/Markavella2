@@ -97,7 +97,7 @@
 
 - 📫 Email me and get a fun reply: **markavella1@gmail.com**
 
-- 📄Resume's are important - here is a good one: [https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing](https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing)
+- 📄Resume's are important - here is a good one: [Mark's Resume](https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing)
 
 - ⚡ Fun fact: **I met my wife on a volleyball court and we play competitive volleyball together.**
   </div>
