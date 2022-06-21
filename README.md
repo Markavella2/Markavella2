@@ -82,13 +82,13 @@
   <td width="50%">
 <h3 align="center" color="white">Chat Bot App</h3>
 <div align="center" >  
-<a href='https://align5.netlify.app/' target="blank">
-<img src="https://github.com/Markavella2/Markavella2/blob/main/Align5.gif" alt="Align5 Website" width="100%" />
+<a href='https://minty-chat-bot.herokuapp.com/' target="blank">
+<img src="https://github.com/Markavella2/Markavella2/blob/main/chatbot.gif" alt="Dreamers Software Chat Bot" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://align5.netlify.app/" target="_blank">
+<a href="https://minty-chat-bot.herokuapp.com/" target="_blank">
 <img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
 </a>
 </p>
