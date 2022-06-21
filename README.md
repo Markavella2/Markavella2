@@ -6,22 +6,6 @@
 <h1 align="center">Hi 👋, I'm Mark, a fun and energetic full stack web developer</h1>
 <h3 align="center">I started working in the tech industry 9 years ago. That's what gave me the itch to learn how to code, and I haven't looked back since. If I'm not writing some totally awesome code, then I'm writing some totally awesome novels and children's stories. I spend whatever free time I have (free time??) hanging out with my family outside being as active as I can be.</h3>
 
-<p align="left"> <a href="https://twitter.com/avellamark" target="blank"><img src="https://img.shields.io/twitter/follow/avellamark?logo=twitter&style=for-the-badge" alt="avellamark" /></a> </p>
-
-- 🔭 I’m currently working on **"You've Got Answers" - an interactive superlative builder**
-
-- 🌱 I’m currently learning **New things everyday!**
-
-- 🤝 I’m looking for help with **my Dragon Ball Z collection (mainly, where to store all my fig's).**
-
-- 💬 Ask me about **Ultimate Frisbee, Disc Golf, Dragon Ball Z, Volleyball, or anything Marvel related.**
-
-- 📫 Email me and get a fun reply: **markavella1@gmail.com**
-
-- 📄Resume's are important - here is a good one: [https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing](https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing)
-
-- ⚡ Fun fact: **I met my wife on a volleyball court and we play competitive volleyball together.**
-
 
 <h2 align="center">Projects </h2>
 <div align="center">
@@ -97,6 +81,21 @@
   </table>
 
 
+<p align="left"> <a href="https://twitter.com/avellamark" target="blank"><img src="https://img.shields.io/twitter/follow/avellamark?logo=twitter&style=for-the-badge" alt="avellamark" /></a> </p>
+
+- 🔭 I’m currently working on **"You've Got Answers" - an interactive superlative builder**
+
+- 🌱 I’m currently learning **New things everyday!**
+
+- 🤝 I’m looking for help with **my Dragon Ball Z collection (mainly, where to store all my fig's).**
+
+- 💬 Ask me about **Ultimate Frisbee, Disc Golf, Dragon Ball Z, Volleyball, or anything Marvel related.**
+
+- 📫 Email me and get a fun reply: **markavella1@gmail.com**
+
+- 📄Resume's are important - here is a good one: [https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing](https://docs.google.com/document/d/11ICjtmGqY--RS_84SwmVBtVMiho33YfehT9_hJLfP6M/edit?usp=sharing)
+
+- ⚡ Fun fact: **I met my wife on a volleyball court and we play competitive volleyball together.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
