@@ -64,7 +64,7 @@
 <table>
 <tr>
  <td width="50%">
-<h3 align="center" color="white">Jim's Tour Guide Service</h3>
+<h3 align="center" color="white">Align5 Photography</h3>
 <div align="center" >  
 <a href='https://align5.netlify.app/' target="blank">
 <img src="https://github.com/Markavella2/Markavella2/blob/main/Align5.gif" alt="Align5 Website" width="100%" />
@@ -78,6 +78,22 @@
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - One of my favorite websites. Check out Align5 Photography!</p>
 </div> 
+  
+  <td width="50%">
+<h3 align="center" color="white">Chat Bot App</h3>
+<div align="center" >  
+<a href='https://align5.netlify.app/' target="blank">
+<img src="https://github.com/Markavella2/Markavella2/blob/main/Align5.gif" alt="Align5 Website" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://align5.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Website-blueviolet??style=plastic"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - One of my favorite websites. Check out Align5 Photography!</p>
+</div>  
   </table>
 
 
